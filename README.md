@@ -75,9 +75,14 @@ Then run the ```replace-bearer.py``` file
 This bad boy is gonna fix all the conf files so that they work with your api key :)
 Next, go to Grafana and hit that plus sign and click on import
 
-Find the ```dashboard.json file``` in the ground-systems folder and upload it
+Find the ```dashboard.json``` file in the ground-systems folder and upload it
 Yay i think thats it for Windows
 
+### Actually Running the GUI
+1. Open up that dashboard
+2. If in ground-systems, open the ```windows``` directory and run the two powershell scripts in there
+- ```start-telegraf.ps1```
+- ```start-telegraf-2.ps1```
 
 
 
