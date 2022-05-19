@@ -223,7 +223,8 @@
           "filter": {
             "fields": [
               "time",
-              "lc"
+              "lc1",
+              "lc2"
             ]
           },
           "queryType": "measurements",
@@ -431,7 +432,8 @@
           "filter": {
             "fields": [
               "time",
-              "lc"
+              "lc1",
+              "lc2"
             ]
           },
           "queryType": "measurements",
@@ -526,6 +528,6 @@
   "timezone": "",
   "title": "Prometheus Ground Systems GUI",
   "uid": "-IxVArQnz",
-  "version": 19,
+  "version": 21,
   "weekStart": ""
 }
