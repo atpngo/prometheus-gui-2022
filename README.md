@@ -80,7 +80,7 @@ Yay i think thats it for Windows
 
 ### Actually Running the GUI
 1. Open up that dashboard
-2. If in ground-systems, open the ```windows``` directory and run the two powershell scripts in there
+2. If in ground-systems, open the ```windows``` directory and run the two powershell scripts in there (right click -> run with Powershell)
 - ```start-telegraf.ps1```
 - ```start-telegraf-2.ps1```
 
